@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;build.gradle&apos; to &apos;JavaSpringHW&apos;&#x0D;&#x0A;- Original project: &apos;spring4-mvc-gradle-xml-hello-world&apos;&#x0D;&#x0A;- Destination element: &apos;JavaSpringHW&apos;&#x0D;&#x0A;- Original element: &apos;build.gradle&apos;" description="Copy file" destination="=JavaSpringHW" element1="build.gradle" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1487622596138" units="0" version="1.0"/>
+</session>
